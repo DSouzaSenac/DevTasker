@@ -1,2 +1,3 @@
 # DevTasker
-Gerenciador de tarefas empresariais.
+
+Gerenciador de tarefas empresariais para empresas de empresários.
